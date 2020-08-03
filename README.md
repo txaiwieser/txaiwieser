@@ -1,8 +1,5 @@
 ## Olá! I'm Txai Wieser 👋
 
-<!--
-**txaiwieser/txaiwieser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🇧🇷 From Brazil <br>
 - 🔭 Currently working with SwiftUI in production at @WarrenBrasil <br>
 - 🌱 I’m learning AR to build Anyon (My side project) <br>
