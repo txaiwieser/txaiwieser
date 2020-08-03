@@ -1,11 +1,11 @@
 ## Olá! I'm Txai Wieser 👋
 
-- 🇧🇷 From Brazil <br>
-- 🔭 Currently working with SwiftUI in production at @WarrenBrasil <br>
-- 🌱 I’m learning AR to build Anyon (My side project) <br>
+- 🇧🇷 I'm from Brazil <br>
+- 🔭 I'm currently working with SwiftUI in production at @WarrenBrasil <br>
+- 📱 I’m learning AR to build Anyon (My side project) <br>
 - 👯 I like to give tech talks github.com/txaiwieser/talks <br>
 - 😄 Pronouns: He/Him - Ele/Dele <br>
-- ⚡ Fun fact: I was an intern @ Apple<br>
+- ⚡ Fun facts: I'm Vegan 🌱, I like to play the piano and to travel. I was also an intern @ Apple <br>
 
 ### Find me 🌎
 
