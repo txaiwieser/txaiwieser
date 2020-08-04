@@ -1,7 +1,7 @@
 ## Olá! I'm Txai Wieser 👋
 
 - 🇧🇷 I'm from Brazil <br>
-- 🔭 I'm currently working with SwiftUI in production at @WarrenBrasil <br>
+- 🔭 I'm an iOS software engineer currently working with SwiftUI in production at @ Warren Brasil <br>
 - 📱 I’m learning AR to build Anyon (My side project) <br>
 - 👯 I like to give tech talks github.com/txaiwieser/talks <br>
 - 😄 Pronouns: He/Him - Ele/Dele <br>
