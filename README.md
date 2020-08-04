@@ -4,6 +4,7 @@
 - 🔭 I'm an iOS software engineer currently working with SwiftUI in production at @ Warren Brasil <br>
 - 📱 I’m learning AR to build Anyon (My side project) <br>
 - 👯 I like to give tech talks - [Link](https://github.com/txaiwieser/talks) <br>
+- 💼 Previously @ Warren, Apple, Developer Academy, UFRGS.
 - 😄 Pronouns: He/Him - Ele/Dele <br>
 - ⚡ Fun facts: I'm Vegan 🌱, I like to play the piano and to travel. I was also an intern @ Apple <br>
 
