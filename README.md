@@ -10,7 +10,7 @@
 
 ### Find me 🌎
 
-- 📚 I'm trying to write more - [Blog](txaiwieser.github.io/articles) <br>
+- 📚 I'm trying to write more - [Blog](https://txaiwieser.github.io/articles) <br>
 - 🐦 You can reach me on Twitter - [Link](https://twitter.com/txaiwieser) <br>
 - 💼 Here's my LinkedIn - [LinkedIn](https://www.linkedin.com/in/txaiwieser) <br>
 - 📫 Or my email if you're into it - [Email](txaidw@gmail.com) <br>
